@@ -88,9 +88,55 @@ Ideal for corporate training and selling online courses.
 - **Welcome banner** on the dashboard.
 - **Searchable course gallery** so learners find courses fast.
 - **Dark mode**, switched on or off by each user.
+- **Easy branding:** logo, colors, fonts and footer links.
+- **Custom color schemes:** build your own or import one from another Moodle.
+- **Built on Boost**, keeping Moodle clean, safe and ready to grow.
+- **Multilingual:** English, Spanish, Portuguese (Brazil) and French.
 
-- ## License
+## Requirements
 
-Released under the [GNU GPL v3 or later](http://www.gnu.org/copyleft/gpl.html).
+- Moodle 4.5
 
-Crafted by **W3L Web Solutions** (https://w3l.com.br).
+## Installation
+
+### Way 1: Moodle Admin
+
+1. Log in as administrator and go to **Site Administration > Plugins > Install plugins**.
+2. Drop in `moodle_theme_nexa4.zip`, or choose it with the file picker.
+3. Set **Plugin type** to **Theme** if Moodle doesn't detect it automatically.
+4. Click **Install plugin from the ZIP file**, then **Continue**.
+5. Click **Upgrade Moodle database now**, then **Continue**.
+
+### Way 2: FTP/SFTP
+
+1. Unzip the file. You'll get a folder named `nexa4`.
+2. Upload it to `<your_moodle_folder>/theme/`. The final path is `<your_moodle_folder>/theme/nexa4/`.
+3. Log in as administrator and click **Upgrade Moodle database now**.
+
+### Activate the theme
+
+Go to **Site Administration > Appearance > Themes > Theme selector**, choose **Nexa4** and save.
+
+## Dark mode
+
+Each user chooses the mode that suits them best. A toggle lets them switch between light and dark whenever they like, and Nexa4 remembers their choice.
+
+## Tip: for a better experience
+
+- Use the **Nexa 4 course format**.
+- Install the recommended plugin **local/quicknote**. It lets users take notes about courses and content, and recall them later.
+
+## Supported languages
+
+- English
+- Spanish
+- Portuguese (Brazil)
+- French
+
+---
+
+## License
+
+Both plugins are released under the [GNU GPL v3 or later](http://www.gnu.org/copyleft/gpl.html).
+
+Crafted by **[W3L Web Solutions](https://w3l.com.br)**.
