@@ -1,3 +1,26 @@
+- [Nexa 4: Moodle Course Format](#nexa-4-moodle-course-format)
+  - [About](#about)
+  - [Features](#features)
+  - [Requirements](#requirements)
+  - [Installation](#installation)
+    - [Way 1: Moodle Admin](#way-1-moodle-admin-recommended)
+    - [Way 2: FTP/SFTP](#way-2-ftpsftp)
+  - [Usage](#usage)
+  - [Tip: for a better experience](#tip-for-a-better-experience)
+  - [Supported languages](#supported-languages)
+- [Nexa4: Moodle Theme](#nexa4-moodle-theme)
+  - [About](#about-1)
+  - [Features](#features-1)
+  - [Requirements](#requirements-1)
+  - [Installation](#installation-1)
+    - [Way 1: Moodle Admin](#way-1-moodle-admin)
+    - [Way 2: FTP/SFTP](#way-2-ftpsftp-1)
+    - [Activate the theme](#activate-the-theme)
+  - [Dark mode](#dark-mode)
+  - [Tip: for a better experience](#tip-for-a-better-experience-1)
+  - [Supported languages](#supported-languages-1)
+- [License](#license)
+
 # Nexa 4: Moodle Course Format
 
 > Turn your Moodle course into a sleek lesson player with live progress tracking.
