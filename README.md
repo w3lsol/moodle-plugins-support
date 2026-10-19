@@ -1,4 +1,4 @@
-# W3L Moodle Plugins
+# W3L Moodle Plugins (Nexa 4 Moodle Plugins)
 
 Plugins by **W3L Web Solutions** for Moodle 4.5.
  
