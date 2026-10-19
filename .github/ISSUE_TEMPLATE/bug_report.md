@@ -1,7 +1,7 @@
 ---
-Name: W3L Bug report
-About: Report a problem with Nexa4 Theme or Nexa 4 Course Format
-Labels: bug
+name: Bug report
+about: Report a problem with Nexa4 Theme or Nexa 4 Course Format
+labels: bug
 ---
 
 **Which plugin?**
